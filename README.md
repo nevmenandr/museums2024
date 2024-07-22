@@ -8,21 +8,21 @@
 - [x] Государственный музей архитектуры имени А. В. Щусева 12.06.2024 [mastodon post](https://mastodon.social/@nevmenandr/112815502444889039) [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kur35c3rft2s)
 - [x] Государственный музей А. С. Пушкина 12.07.2024 [mastodon post](https://mastodon.social/@nevmenandr/112777302489606835), [mastodon post](https://mastodon.social/@nevmenandr/112777365076238447), [mastodon post](https://mastodon.social/@nevmenandr/112777548514467008), [mastodon post](https://mastodon.social/@nevmenandr/112815455982593812), [mastodon post](https://mastodon.social/@nevmenandr/112815461420911795), [mastodon post](https://mastodon.social/@nevmenandr/112815478037848090), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kx3mfii23i23), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kx57powl7j2j), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kxo6bykhem2d), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kxo6hg25ml2b), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kxo6iuxewa22), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kxo6n2uoqk2r)
 - [x] Государственный музей Л. Н. Толстого 21.07.2024 [mastodon post](https://mastodon.social/@nevmenandr/112824792670075416), [mastodon post](https://mastodon.social/@nevmenandr/112824814425369511)
-- [ ] Музей Владимира Высоцкого #литературные #центр	улица Высоцкого, дом 3 стр.1 [https://visotsky.ru](https://visotsky.ru/)	rate:1
-- [ ] Музей Ар Деко @искусство @юго-запад	Лужнецкая наб., 2/4с4 [Музей Ар Деко](http://artdecomuseum.ru/)	rate:1
-- [ ] Музей индустриальной культуры @естественнонаучные @юго-восток	ул. Заречье, 3А [Музей индустриальной культуры](https://museum-ic.ru/)	rate:1
-- [ ] Музей-квартира А.И. Солженицына @история @тверская	ул. Тверская, д. 12, стр.8 [Дом русского зарубежья имени Александра Солженицына](http://www.domrz.ru/solzhenitsyn-museum/)	rate:1
-- [ ] Музей истории телефона @естественнонаучные @история @кудринская	Садовая-Кудринская улица, дом 19с2	rate:1
-- [ ] Музей криптографии @естественнонаучные @север	Ботаническая 25	rate:1
-- [ ] Дом Н.В. Гоголя @литературные @центр	Никитский бульвар, 7А	rate:1
-- [ ] Музей «П.И. Чайковский и Москва» @искусство @кудринская	Кудринская пл., 46/54 [Музей П.И. Чайковского в Москве](https://music-museum.ru/museums/tchaikovsky)	2
-- [ ] Музей современной истории России @история @тверская	ул. Тверская, 21	rate:2
-- [ ] Музей морского флота @замоскворечье @история	ул. Большая Ордынка, д. 19, стр. 1	rate:2
-- [ ] Музей археологии Москвы @история @центр	Манежная площадь, д. 1а	rate:2
-- [ ] Центральный музей Вооруженных Сил @история @север	ул.Советской Армии, д.2, стр.1 [сайт](http://www.cmaf.ru)	rate:2
-- [ ] Музей Победы @запад @история	Площадь Победы, д. 3 [сайт](https://victorymuseum.ru/)	rate:2
-- [ ] Музей Серебряного века @литературные @север	Проспект Мира, д. 30	rate:2
-- [ ] Дом-музей Марины Цветаевой @литературные @центр	Борисоглебский пер., д. 6	rate:2
+- [ ] Музей Владимира Высоцкого	улица Высоцкого, дом 3 стр.1 [https://visotsky.ru](https://visotsky.ru/)	rate:1
+- [ ] Музей Ар Деко	Лужнецкая наб., 2/4с4 [Музей Ар Деко](http://artdecomuseum.ru/)	rate:1
+- [ ] Музей индустриальной культуры	ул. Заречье, 3А [Музей индустриальной культуры](https://museum-ic.ru/)	rate:1
+- [ ] Музей-квартира А.И. Солженицына	ул. Тверская, д. 12, стр.8 [Дом русского зарубежья имени Александра Солженицына](http://www.domrz.ru/solzhenitsyn-museum/)	rate:1
+- [ ] Музей истории телефона	Садовая-Кудринская улица, дом 19с2	rate:1
+- [ ] Музей криптографии	Ботаническая 25	rate:1
+- [ ] Дом Н.В. Гоголя	Никитский бульвар, 7А	rate:1
+- [ ] Музей «П.И. Чайковский и Москва»	Кудринская пл., 46/54 [Музей П.И. Чайковского в Москве](https://music-museum.ru/museums/tchaikovsky)	2
+- [ ] Музей современной истории России	ул. Тверская, 21	rate:2
+- [ ] Музей морского флота	ул. Большая Ордынка, д. 19, стр. 1	rate:2
+- [ ] Музей археологии Москвы	Манежная площадь, д. 1а	rate:2
+- [ ] Центральный музей Вооруженных Сил	ул.Советской Армии, д.2, стр.1 [сайт](http://www.cmaf.ru)	rate:2
+- [ ] Музей Победы	Площадь Победы, д. 3 [сайт](https://victorymuseum.ru/)	rate:2
+- [ ] Музей Серебряного века	Проспект Мира, д. 30	rate:2
+- [ ] Дом-музей Марины Цветаевой	Борисоглебский пер., д. 6	rate:2
 - [ ] Московский государственный музей С.А. Есенина @замоскворечье @литературные	Большой Строченовский пер., д. 24, стр. 2	rate:2
 - [ ] Палаты бояр Романовых @история @по-понедельникам @центр	ул. Варварка, 10	rate:2
 - [ ] Палеонтологический музей им. Ю.А. Орлова @естественнонаучные @юго-запад	ул. Профсоюзная, д. 123 [Палеонтологический музей им. Ю.А.Орлова](https://www.paleo.ru/museum/)	rate:2
