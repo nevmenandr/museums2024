@@ -1,4 +1,8 @@
-# moscow museums 2024
+# Московские музеи 2024
+
+В поисках детальной информации и ссылок на фоточки см. [wiki](https://github.com/nevmenandr/museums2024/wiki)
+
+## Список музеев
 
 - [x] Музей И.С. Тургенева 17.10.2023 [telegram](https://t.me/antibarbari/1455)
 - [x] Государственный музей архитектуры имени А. В. Щусева 12.06.2024 [mastodon post](https://mastodon.social/@nevmenandr/112815502444889039) [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kur35c3rft2s)
