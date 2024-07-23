@@ -10,7 +10,7 @@
 - [x] Государственный музей Л. Н. Толстого 21.07.2024 [mastodon post](https://mastodon.social/@nevmenandr/112824792670075416), [mastodon post](https://mastodon.social/@nevmenandr/112824814425369511)
 - [x] Музей Владимира Высоцкого	улица Высоцкого, дом 3 стр.1 [сайт](https://visotsky.ru/)	23.07.2024 [mastodon post](https://mastodon.social/@nevmenandr/112836039023271440), [mastodon post](https://mastodon.social/@nevmenandr/112836043700063938), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kxxct3gkli2o)
 - [ ] Музей Ар Деко	Лужнецкая наб., 2/4с4 [Музей Ар Деко](http://artdecomuseum.ru/)	rate:1
-- [ ] Музей индустриальной культуры	ул. Заречье, 3А [Музей индустриальной культуры](https://museum-ic.ru/)	rate:1
+- [ ] ~~Музей индустриальной культуры~~	ул. Заречье, 3А [Музей индустриальной культуры](https://museum-ic.ru/)	rate:1
 - [ ] Музей-квартира А.И. Солженицына	ул. Тверская, д. 12, стр.8 [Дом русского зарубежья имени Александра Солженицына](http://www.domrz.ru/solzhenitsyn-museum/)	rate:1
 - [ ] Музей истории телефона	Садовая-Кудринская улица, дом 19с2	rate:1
 - [ ] Музей криптографии	[Ботаническая 25](https://yandex.ru/maps/213/moscow/house/botanicheskaya_ulitsa_25s4/Z04Ycw5nQUcAQFtvfXRycXpnYA==/?ll=37.597827%2C55.830645&z=17)	rate:1
