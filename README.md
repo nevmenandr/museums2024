@@ -9,7 +9,7 @@
 - [x] Государственный музей А. С. Пушкина 12.07.2024 [mastodon post](https://mastodon.social/@nevmenandr/112777302489606835), [mastodon post](https://mastodon.social/@nevmenandr/112777365076238447), [mastodon post](https://mastodon.social/@nevmenandr/112777548514467008), [mastodon post](https://mastodon.social/@nevmenandr/112815455982593812), [mastodon post](https://mastodon.social/@nevmenandr/112815461420911795), [mastodon post](https://mastodon.social/@nevmenandr/112815478037848090), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kx3mfii23i23), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kx57powl7j2j), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kxo6bykhem2d), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kxo6hg25ml2b), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kxo6iuxewa22), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kxo6n2uoqk2r)
 - [x] Государственный музей Л. Н. Толстого 21.07.2024 [mastodon post](https://mastodon.social/@nevmenandr/112824792670075416), [mastodon post](https://mastodon.social/@nevmenandr/112824814425369511)
 - [x] Музей Владимира Высоцкого	улица Высоцкого, дом 3 стр.1 [сайт](https://visotsky.ru/)	23.07.2024 [mastodon post](https://mastodon.social/@nevmenandr/112836039023271440), [mastodon post](https://mastodon.social/@nevmenandr/112836043700063938), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kxxct3gkli2o)
-- [ ] Музей Ар Деко	Лужнецкая наб., 2/4с4 [Музей Ар Деко](http://artdecomuseum.ru/)	rate:1
+- [ ] ~~Музей Ар Деко~~	Лужнецкая наб., 2/4с4 [Музей Ар Деко](http://artdecomuseum.ru/)	rate:1
 - [ ] ~~Музей индустриальной культуры~~	ул. Заречье, 3А [Музей индустриальной культуры](https://museum-ic.ru/)	rate:1
 - [ ] Музей-квартира А.И. Солженицына	ул. Тверская, д. 12, стр.8 [Дом русского зарубежья имени Александра Солженицына](http://www.domrz.ru/solzhenitsyn-museum/)	rate:1
 - [ ] Музей истории телефона	Садовая-Кудринская улица, дом 19с2	rate:1
@@ -25,7 +25,7 @@
 - [ ] Дом-музей Марины Цветаевой	Борисоглебский пер., д. 6	rate:2
 - [ ] Московский государственный музей С.А. Есенина	Большой Строченовский пер., д. 24, стр. 2	rate:2
 - [ ] Палаты бояр Романовых	ул. Варварка, 10	rate:2
-- [x] Палеонтологический музей им. Ю.А. Орлова	ул. Профсоюзная, д. 123 [Палеонтологический музей им. Ю.А.Орлова](https://www.paleo.ru/museum/)	rate:2
+- [x] Палеонтологический музей им. Ю.А. Орлова	ул. Профсоюзная, д. 123 [Палеонтологический музей им. Ю.А.Орлова](https://www.paleo.ru/museum/)	24.07.2024 [mastodon post](https://mastodon.social/@nevmenandr/112842289546595596), [mastodon post](https://mastodon.social/@nevmenandr/112843830711237703), [mastodon post](https://mastodon.social/@nevmenandr/112843848990791136), [mastodon post](https://mastodon.social/@nevmenandr/112843855185770776), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3ky2rjvu3642l)
 - [ ] Музейно-мемориальный комплекс истории ВМФ России	ул. Свободы, д. 56 [Музей истории Военно-Морского флота России. Парк «Северное Тушино»](https://mosparks.ru/vmf/)	2	rate:1
 - [ ] Мультимедиа Арт Музей @художественные	ул. Остоженка, 16 [Мультимедиа Арт Музей](https://mamm-mdf.ru/museum/info/)	2	1
 - [ ] Музей-дворец Волковых-Юсуповых	Большой Харитоньевский переулок.21, стр. 4 [https://www.mos.ru/news/item/110165073/](https://www.mos.ru/news/item/110165073/)	rate:3
