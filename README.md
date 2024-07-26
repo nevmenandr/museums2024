@@ -16,7 +16,7 @@
 - [x] Музей криптографии	[Ботаническая 25](https://yandex.ru/maps/213/moscow/house/botanicheskaya_ulitsa_25s4/Z04Ycw5nQUcAQFtvfXRycXpnYA==/?ll=37.597827%2C55.830645&z=17)	rate:1 25.07.2024 [mastodon post](https://mastodon.social/@nevmenandr/112850295202507503), [mastodon post](https://mastodon.social/@nevmenandr/112850315443426187), [bsky social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3ky5mnfgymg2l), [hypotheses post](https://schonenrede.hypotheses.org/326)
 - [ ] Дом Н.В. Гоголя	Никитский бульвар, 7А	rate:1
 - [ ] Музей «П.И. Чайковский и Москва»	Кудринская пл., 46/54 [Музей П.И. Чайковского в Москве](https://music-museum.ru/museums/tchaikovsky)	2
-- [ ] Музей современной истории России	ул. Тверская, 21	rate:2
+- [x] Музей современной истории России	ул. Тверская, 21	26.07.2024 [mastodon post](https://mastodon.social/@nevmenandr/112853230392489829), [mastodon post](https://mastodon.social/@nevmenandr/112853601844972074), [mastodon post](https://mastodon.social/@nevmenandr/112853619762252698), [hypotheses post](https://schonenrede.hypotheses.org/336) rate:2
 - [ ] ~~Музей морского флота~~	ул. Большая Ордынка, д. 19, стр. 1	rate:2
 - [ ] Музей археологии Москвы	Манежная площадь, д. 1а	rate:2
 - [ ] Центральный музей Вооруженных Сил	ул.Советской Армии, д.2, стр.1 [сайт](http://www.cmaf.ru)	rate:2
