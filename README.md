@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13119643.svg)](https://doi.org/10.5281/zenodo.13119643)
+
 # Московские музеи 2024
 
 В поисках детальной информации и ссылок на фоточки см. [wiki](https://github.com/nevmenandr/museums2024/wiki)
