@@ -25,7 +25,7 @@
 - [ ] Музей археологии Москвы	Манежная площадь, д. 1а	rate:2
 - [ ] Центральный музей Вооруженных Сил	ул.Советской Армии, д.2, стр.1 [сайт](http://www.cmaf.ru)	rate:2
 - [ ] Музей Победы	Площадь Победы, д. 3 [сайт](https://victorymuseum.ru/)	rate:2
-- [ ] Музей Серебряного века	Проспект Мира, д. 30	rate:2
+- [x] Музей Серебряного века	Проспект Мира, д. 30 11.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112943736390643896)	rate:2
 - [x] Дом-музей Марины Цветаевой Борисоглебский пер., д. 6	2.08.2024 [telegram](https://t.me/universitates_podcast/22) rate:2
 - [x] Московский государственный музей С.А. Есенина	Большой Строченовский пер., д. 24, стр. 2 4.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112904844294012439), [mastodon post](https://mastodon.social/@nevmenandr/112904849205548053), [bsky social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kyvuqhxxjt2e), 	rate:2
 - [ ] Палаты бояр Романовых	ул. Варварка, 10	rate:2
