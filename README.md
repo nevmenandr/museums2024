@@ -22,7 +22,7 @@
 - [ ] Музей «П.И. Чайковский и Москва»	Кудринская пл., 46/54 [Музей П.И. Чайковского в Москве](https://music-museum.ru/museums/tchaikovsky)	2
 - [x] Музей современной истории России 📺 ул. Тверская, 21	26.07.2024 [mastodon post](https://mastodon.social/@nevmenandr/112853230392489829), [mastodon post](https://mastodon.social/@nevmenandr/112853601844972074), [mastodon post](https://mastodon.social/@nevmenandr/112853619762252698), [hypotheses post](https://schonenrede.hypotheses.org/336) rate:2
 - [ ] ~~Музей морского флота~~	ул. Большая Ордынка, д. 19, стр. 1	rate:2
-- [x] Музей археологии Москвы	Манежная площадь, д. 1а	rate:2 14.08.2024 [bsky social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kzop4huvhb2d)
+- [x] Музей археологии Москвы	Манежная площадь, д. 1а	rate:2 14.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112965353085088611), [bsky social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kzop4huvhb2d)
 - [ ] Центральный музей Вооруженных Сил	ул.Советской Армии, д.2, стр.1 [сайт](http://www.cmaf.ru)	rate:2
 - [ ] Музей Победы	Площадь Победы, д. 3 [сайт](https://victorymuseum.ru/)	rate:2
 - [x] Музей Серебряного века	Проспект Мира, д. 30 11.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112943736390643896)	rate:2
