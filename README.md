@@ -38,7 +38,7 @@
 - [ ] Музей русского лубка и наивного искусства	ул. Малый Головин пер., д.10	rate:3
 - [ ] Музей хоккея	ул. Автозаводская, д. 23, корп. 3	rate:3
 - [ ] Музей шахмат	Гоголевский б-р., д. 14 https://ruchess.ru rate:3 17.08.2024 
-- [x] Государственный музей — культурный центр «Интеграция» имени Н.А. Островского ул. Тверская, д.14	rate:3 [mastodon post](https://mastodon.social/@nevmenandr/112977350734561481), [mastodon post](https://mastodon.social/@nevmenandr/112977780911498247), [hypothesis](https://schonenrede.hypotheses.org/365)
+- [x] Государственный музей — культурный центр «Интеграция» имени Н.А. Островского ул. Тверская, д.14	rate:3 17.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112977350734561481), [mastodon post](https://mastodon.social/@nevmenandr/112977780911498247), [hypothesis](https://schonenrede.hypotheses.org/365)
 - [ ] Музей Международного нумизматического клуба	Большой Афанасьевский переулок, д. 24 http://coinmuseum.ru/	rate:3
 - [ ] Государственная Третьяковская галерея		rate:3
 - [ ] Музей русского импрессионизма	Ленинградский просп., 15, стр. 11	rate:3
