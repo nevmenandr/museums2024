@@ -29,6 +29,7 @@
 - [x] Дом-музей Марины Цветаевой Борисоглебский пер., д. 6	2.08.2024 [telegram](https://t.me/universitates_podcast/23) rate:2
 - [x] Московский государственный музей С.А. Есенина	Большой Строченовский пер., д. 24, стр. 2 4.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112904844294012439), [mastodon post](https://mastodon.social/@nevmenandr/112904849205548053), [bsky social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kyvuqhxxjt2e), 	rate:2
 - [ ] Палаты бояр Романовых	ул. Варварка, 10	rate:2
+- [x] Медиацентр Зарядья 22.07.2024 
 - [x] Палеонтологический музей им. Ю.А. Орлова 🦖	ул. Профсоюзная, д. 123 24.07.2024 [mastodon post](https://mastodon.social/@nevmenandr/112842289546595596), [mastodon post](https://mastodon.social/@nevmenandr/112843830711237703), [mastodon post](https://mastodon.social/@nevmenandr/112843848990791136), [mastodon post](https://mastodon.social/@nevmenandr/112843855185770776), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3ky2rjvu3642l), [telegram](https://t.me/universitates_podcast/22)
 - [ ] Музейно-мемориальный комплекс истории ВМФ России	ул. Свободы, д. 56 https://mosparks.ru/vmf/	2	rate:1
 - [ ] Мультимедиа Арт Музей	ул. Остоженка, 16 https://mamm-mdf.ru/museum/info/	2	1
