@@ -65,4 +65,4 @@
 * [Музей К. Г. Паустовского](https://www.mirpaustowskogo.ru/posetitelju/contacts-moscow): Москва, ул. Кузьминская, 8
 * Музей русского импрессионизма
 
-  ![](./calendar.png)
+  ![](./calendar3.png)
