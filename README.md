@@ -4,6 +4,8 @@
 
 В поисках детальной информации и ссылок на фоточки см. [wiki](https://github.com/nevmenandr/museums2024/wiki) ˙✧˖°📷 ༘ ⋆｡˚
 
+[Карта](https://github.com/nevmenandr/museums2024/blob/main/museums_map.geojson)
+
 ![Static Badge](https://img.shields.io/badge/moscow-museums-blue)
 
 ## Список музеев 👩🏻‍💻📓✍🏻💡
