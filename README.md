@@ -45,7 +45,7 @@
 - [x] Государственный музей — культурный центр «Интеграция» имени Н.А. Островского ул. Тверская, д.14	rate:3 17.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112977350734561481), [mastodon post](https://mastodon.social/@nevmenandr/112977780911498247), [hypothesis](https://schonenrede.hypotheses.org/365)
 - [ ] Музей Международного нумизматического клуба	Большой Афанасьевский переулок, д. 24 http://coinmuseum.ru/	rate:3
 - [ ] Государственная Третьяковская галерея		rate:3
-- [ ] Музей русского импрессионизма	Ленинградский просп., 15, стр. 11	rate:3
+- [x] Музей русского импрессионизма	Ленинградский просп., 15, стр. 11	rate:3 19.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112988623447287166), [mastodon post](https://mastodon.social/@nevmenandr/112988625817601986), [bsky social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3l23ebuxpwr2l)
 - [x] Авиатренажерный центр [Авиатренажер TFT aero в Москве](https://moscow.tft.aero/) Автозаводская, 18 Мы находимся в ТРЦ Ривьера на третьем этаже (рядом с фуд-кортом).	rate:4 14.08.2024
 - [ ] ~~Музей Восстания Машин~~	Берсеневский пер., 2. 1	rate:4
 - [ ] ~~Музей оптических иллюзий~~	ул. Косыгина, 28/2	rate:4
@@ -66,6 +66,6 @@
 #### Работают в понедельник
 
 * [Музей К. Г. Паустовского](https://www.mirpaustowskogo.ru/posetitelju/contacts-moscow): Москва, ул. Кузьминская, 8
-- [x] Музей русского импрессионизма 19.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112988623447287166), [mastodon post](https://mastodon.social/@nevmenandr/112988625817601986), [bsky social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3l23ebuxpwr2l)
+* Музей русского импрессионизма 
 
   ![](./calendar.png)
