@@ -28,7 +28,7 @@
 - [x] Музей археологии Москвы	Манежная площадь, д. 1а	rate:2 14.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112965353085088611), [bsky social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kzop4huvhb2d)
 - [x] Центральный музей Вооруженных Сил	ул.Советской Армии, д.2, стр.1	rate:2 18.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112983453651669990), [mastodon post](https://mastodon.social/@nevmenandr/112983579372525625), [bsky social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kzytpzvpod2c)
 - [ ] Музей Победы	Площадь Победы, д. 3 https://victorymuseum.ru/	rate:2
-- [x] Музей Серебряного века	Проспект Мира, д. 30 11.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112943736390643896)	rate:2
+- [x] Музей Серебряного века	Проспект Мира, д. 30 11.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112943736390643896), [telegram](https://t.me/universitates_podcast/35)	rate:2
 - [x] Дом-музей Марины Цветаевой Борисоглебский пер., д. 6	2.08.2024 [telegram](https://t.me/universitates_podcast/23) rate:2
 - [x] Московский государственный музей С.А. Есенина	Большой Строченовский пер., д. 24, стр. 2 4.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112904844294012439), [mastodon post](https://mastodon.social/@nevmenandr/112904849205548053), [telegram](https://t.me/universitates_podcast/29), [bsky social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3kyvuqhxxjt2e), 	rate:2
 - [x] Палаты бояр Романовых	ул. Варварка, 10	rate:2 19.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112988859072990861)
@@ -38,7 +38,7 @@
 - [ ] Мультимедиа Арт Музей	ул. Остоженка, 16 https://mamm-mdf.ru/museum/info/	2	1
 - [ ] ~~Музей-дворец Волковых-Юсуповых~~	Большой Харитоньевский переулок.21, стр. 4 https://www.mos.ru/news/item/110165073/	rate:3
 - [ ] ~~Музей «Дом на набережной»~~	http://dnnmuseum.ru/	rate:3
-- [x] Старый Английский двор 14.08.2024
+- [x] Старый Английский двор [telegram](https://t.me/antibarbari/2590) 14.08.2024
 - [ ] Музей русского лубка и наивного искусства	ул. Малый Головин пер., д.10	rate:3
 - [ ] Музей хоккея	ул. Автозаводская, д. 23, корп. 3	rate:3
 - [ ] ~~Музей шахмат~~	Гоголевский б-р., д. 14 https://ruchess.ru rate:3 17.08.2024 
