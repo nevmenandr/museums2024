@@ -34,7 +34,7 @@
 - [x] Палаты бояр Романовых	ул. Варварка, 10	rate:2 19.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112988859072990861)
 - [x] Медиацентр Зарядья 22.07.2024 
 - [x] Палеонтологический музей им. Ю.А. Орлова 🦖	ул. Профсоюзная, д. 123 24.07.2024 [mastodon post](https://mastodon.social/@nevmenandr/112842289546595596), [mastodon post](https://mastodon.social/@nevmenandr/112843830711237703), [mastodon post](https://mastodon.social/@nevmenandr/112843848990791136), [mastodon post](https://mastodon.social/@nevmenandr/112843855185770776), [bsky.social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3ky2rjvu3642l), [telegram](https://t.me/universitates_podcast/22)
-- [ ] Музейно-мемориальный комплекс истории ВМФ России	ул. Свободы, д. 56 https://mosparks.ru/vmf/	2	rate:1
+- [x] Музейно-мемориальный комплекс истории ВМФ России	ул. Свободы, д. 56 https://mosparks.ru/vmf/	2	rate:1 28.09.2024
 - [ ] Мультимедиа Арт Музей	ул. Остоженка, 16 https://mamm-mdf.ru/museum/info/	2	1
 - [ ] ~~Музей-дворец Волковых-Юсуповых~~	Большой Харитоньевский переулок.21, стр. 4 https://www.mos.ru/news/item/110165073/	rate:3
 - [ ] ~~Музей «Дом на набережной»~~	http://dnnmuseum.ru/	rate:3
