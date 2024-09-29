@@ -42,7 +42,7 @@
 - [ ] Музей русского лубка и наивного искусства	ул. Малый Головин пер., д.10	rate:3
 - [ ] Музей хоккея	ул. Автозаводская, д. 23, корп. 3	rate:3
 - [ ] ~~Музей шахмат~~	Гоголевский б-р., д. 14 https://ruchess.ru rate:3 17.08.2024 
-- [x] Государственный музей — культурный центр «Интеграция» имени Н.А. Островского ул. Тверская, д.14	rate:3 17.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112977350734561481), [mastodon post](https://mastodon.social/@nevmenandr/112977780911498247), [hypothesis](https://schonenrede.hypotheses.org/365), [telegram](https://t.me/antibarbari/2609)
+- [x] Государственный музей — культурный центр «Интеграция» имени Н.А. Островского ул. Тверская, д.14	rate:3 17.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112977350734561481), [mastodon post](https://mastodon.social/@nevmenandr/112977780911498247), [hypothesis](https://schonenrede.hypotheses.org/365), [telegram](https://t.me/antibarbari/2609), [telegram](https://t.me/universitates_podcast/41)
 - [ ] Музей Международного нумизматического клуба	Большой Афанасьевский переулок, д. 24 http://coinmuseum.ru/	rate:3
 - [ ] Государственная Третьяковская галерея		rate:3
 - [x] Музей русского импрессионизма	Ленинградский просп., 15, стр. 11	rate:3 19.08.2024 [mastodon post](https://mastodon.social/@nevmenandr/112988623447287166), [mastodon post](https://mastodon.social/@nevmenandr/112988625817601986), [bsky social post](https://bsky.app/profile/nevmenandr.bsky.social/post/3l23ebuxpwr2l)
