@@ -53,7 +53,7 @@
 - [ ] Переделкино: Пастернак, Евтушенко, Чуковский, поселение Внуковское, ДСК «Мичуринец»
 - [ ] РГБ
 - [ ] Музей Лермонтова
-- [ ] [Московский дом Достоевского](https://www.afisha.ru/msk/museum/moskovskiy-dom-dostoevskogo-7385/)
+- [x] [Московский дом Достоевского](https://www.afisha.ru/msk/museum/moskovskiy-dom-dostoevskogo-7385/) 4.10.2024
 
 -------
 
